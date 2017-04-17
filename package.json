@@ -11,11 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/mikcho/hyper-monokai.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },       
+  },
   "author": {
 	  "name": "Mik Cho",
 	  "email": "mikcho@qq.com",

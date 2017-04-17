@@ -2,8 +2,6 @@
 
 A monokai theme for hyper.
 
-## Screenshots
-
 ![Screenshot](http://i.imgur.com/UjvquUv.png)
 
 ## Installation
@@ -15,7 +13,7 @@ module.exports = {
   /*...*/
 
   plugins: [
-    "hyper-monokai"
+    'hyper-monokai'
   ]
 
   /*...*/
@@ -25,4 +23,4 @@ module.exports = {
 
 ## License
 
-Copyright (c) 2016 Mik Cho - Released under the ISC license.
+Copyright (c) 2016-2017 Mik Cho - Released under the MIT license.
