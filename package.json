@@ -1,11 +1,11 @@
 {
   "name": "hyper-monokai",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A monokai theme for hyper.",
   "keywords": [
     "hyper",
-	  "theme",
-	  "monokai"
+    "theme",
+    "monokai"
   ],
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-	  "name": "Mik Cho",
-	  "email": "mikcho@qq.com",
-	  "url": "http://mikcho.me"
+    "name": "Mik Cho",
+    "email": "mikcho@qq.com",
+    "url": "http://mikcho.me"
   }
 }
